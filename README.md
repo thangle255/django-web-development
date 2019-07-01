@@ -18,6 +18,7 @@ This course mainly focuses on [Python](https://www.python.org/), [Django](https:
 6. [Exception Handling](python/06-exception-handling.md)
 7. [Modules & Packages](python/07-modules-and-packages.md)
 8. [Classes & Objects](python/08-classes-and-objects.md)
+9. [Coding Standards](python/09-python-coding-standards.md)
 
 #### Database & SQL (PostgreSQL)
 1. [Database and SQL](database/database-and-sql.md)
