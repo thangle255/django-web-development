@@ -334,11 +334,11 @@ DATABASES = {
 
 ## Read More?
 Go through the following links if you want to learn more about Django Models, ORM & database stuff in django.
-1. https://docs.djangoproject.com/en/2.2/topics/db/models/
-2. https://docs.djangoproject.com/en/2.2/ref/models/instances/#django.db.models.Model
-3. https://docs.djangoproject.com/en/2.2/howto/initial-data/
+1. https://docs.djangoproject.com/en/3.2/topics/db/models/
+2. https://docs.djangoproject.com/en/3.2/ref/models/instances/#django.db.models.Model
+3. https://docs.djangoproject.com/en/3.2/howto/initial-data/
 4. https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
-5. https://docs.djangoproject.com/en/2.2/topics/db/queries/
+5. https://docs.djangoproject.com/en/3.2/topics/db/queries/
 6. http://stackoverflow.com/questions/5394331/how-to-setup-postgresql-database-in-django
 
 
