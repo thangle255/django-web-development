@@ -158,8 +158,8 @@ Let's see how we can do that. We'll do it in the following steps:
  5. Link "Edit" link of individual todo items to it's edit page.
 
 ## Read More?
- 1. https://docs.djangoproject.com/en/2.2/topics/forms/
- 2. https://docs.djangoproject.com/en/2.2/topics/http/urls/
- 3. https://docs.djangoproject.com/en/2.2/ref/request-response/
+ 1. https://docs.djangoproject.com/en/3.2/topics/forms/
+ 2. https://docs.djangoproject.com/en/3.2/topics/http/urls/
+ 3. https://docs.djangoproject.com/en/3.2/ref/request-response/
  4. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models 
  5. https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
